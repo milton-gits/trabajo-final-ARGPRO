@@ -14,7 +14,7 @@ public class Final {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola proyecto");
+        System.out.println("chau proyecto");
     }
     
 }
